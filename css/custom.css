@@ -216,3 +216,8 @@ h6::before {
 [data-theme="dark"] #snow{
   display: none;
 }
+
+.loading-img {
+  background: url(https://pic.imgdb.cn/item/66a9f5a7d9c307b7e90ef538.png) no-repeat center center;
+  background-size: cover;
+}
